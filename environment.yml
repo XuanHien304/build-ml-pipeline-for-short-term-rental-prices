@@ -14,4 +14,4 @@ dependencies:
   - git=2.30.2
   - pip=20.3.3
   - pip:
-      - wandb==0.10.31
+      - wandb==0.12.17
